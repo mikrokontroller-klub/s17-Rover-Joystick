@@ -1,5 +1,5 @@
 # s17-Rover-Joystick
-A code for the Rovers built at the summer bootcamp event of Erdőkertesi Mikrokontroller Klub.
+A code for the Rovers built at the summer bootcamp event of Erdőkertesi Mikrokontroller Klub in 2017.
 
 It's a PlatformIO project, but you can easily convert it to Arduino.
 
